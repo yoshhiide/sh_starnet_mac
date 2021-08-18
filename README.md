@@ -16,6 +16,8 @@ https://sourceforge.net/projects/starnet/
 ### 2. Create .bin/StarNet_MacOS
 `mkdir ~/.bin`  
 
+> I put it in `.bin`, but it can be in another place.
+
 Copy StarNet_MacOS(unzip) to ~/.bin/  
 `cp StarNet_MacOS ~/.bin/`
 
